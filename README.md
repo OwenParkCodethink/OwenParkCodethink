@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @OwenParkCodethink
-- 👀 I’m interested in games programming, translation (UK-Eng/JP)
+- 👋 Hi, I’m @OwenParkCodethink (He/They)
+- 👀 I’m interested in games programming, translation (UK-Eng/JP), games, etc
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on games programming and/or translation
 - 📫 How to reach me Twitter: @Kouda_Ha
